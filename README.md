@@ -8,3 +8,4 @@ c++实现client&amp;&amp;server---聊天室项目
 服务端功能：查询当前在线列表（通过索引），指定id登出目的客户端，30秒剔除连接且未登录的客户端。
 
 系统主要类图如下：
+![image](https://github.com/hongxingao/Chatroom/blob/master/system_class.png)
