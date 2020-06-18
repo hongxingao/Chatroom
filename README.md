@@ -10,4 +10,4 @@ c++实现client&amp;&amp;server---聊天室项目
 系统主要类图如下：
 ![image](https://github.com/hongxingao/Chatroom/blob/master/system_class.png)
 
-test文件下为编译好的exe程序，list&&cyc_buffer文件下为本人实现的kylib中的读取ini文件，列表类，缓冲区类。其中列表类基于缓冲内存块https://blog.csdn.net/kyee/article/details/40373093， 本项目所有代码均经过kylib作者的指点及本人多次修改完善，读者可尽情参考。
+test文件下为编译好的exe程序，list&&cyc_buffer文件下为本人实现的kylib中的读取ini文件，列表类，缓冲区类。其中列表类基于缓冲内存块https://blog.csdn.net/kyee/article/details/40373093 ，本项目所有代码均经过kylib作者的指点及本人多次修改完善，读者可尽情参考。
